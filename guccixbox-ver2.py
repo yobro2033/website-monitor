@@ -8,7 +8,7 @@ from dhooks import Webhook, Embed
 url = "https://www.gucci.com/uk/en_gb/pr/c/xbox-by-gucci-p-693083UI7BD8957"
 headers = {'User-Agent': 'Mozilla/5.0'}
 
-hook = Webhook('https://discord.com/api/webhooks/658061206548119562/0k4VOMro53L3mCjFOTfgJgIYqeFvuBA6BAyC-Ol2exL9ijspMGf0hcJspKtP0at4h1he')
+hook = Webhook('https://discord.com/api/webhooks/658061206548119562/0k4VOMro53L3mCjFOTfgJgIYqeFvuBA6BAyC-xxxxx')
 
 embed = Embed(
   description='XBOX x GUCCI RESTOCK',
