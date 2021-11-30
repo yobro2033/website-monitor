@@ -7,10 +7,10 @@ from datetime import datetime
 url = "https://www.gucci.com/uk/en/pr/c/hot-wheels-x-gucci-cadillac-seville-replica-p-696473I312Z8464"
 headers = {'User-Agent': 'Mozilla/5.0'}
 
-hook = Webhook('https://discord.com/api/webhooks/658061206548119562/0k4VOMro53L3mCjFOTfgJgIYqeFvuBA6BAyC-Ol2exL9ijspMGf0hcJspKtP0at4h1he')
+hook = Webhook('https://discord.com/api/webhooks/658061206548119562/0k4VOMro53L3mCjFOTfgJgIYqeFvuBA6BAyC-xxxx')
 
 embed = Embed(
-  description='Successfully created a VCC! Check your csv to get the cards number and CVC.',
+  description='RESTOCK',
   color=0x5CDBF0,
   timestamp='now'
   )
